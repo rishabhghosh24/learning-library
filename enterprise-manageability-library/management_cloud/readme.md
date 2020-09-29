@@ -1,6 +1,6 @@
 ![](media/rdwd-omcheader.png)  
 
-# Welcome to Oracle Management Cloud Labs
+# Welcome to Grand Tour OMC
 
 These labs are designed to be executed in sequence. There are a number of assumptions associated with these labs that are documented.  Please pay attention to those assumptions.
 
@@ -9,15 +9,10 @@ These labs are designed to be executed in sequence. There are a number of assump
 -  Docker Account (hub.docker.com)
 -  Putty (Windows users)
 -  Google Chrome with JSON Formatter Plugin
--  Familiarity with VI
+-  Familiarity with VI not required
 
-## Oracle Management Cloud Labs 
+## Oracle Management Cloud Labs
 1. [OMC for EBS](./omcebs.md)
 2. [APM](./omcunified.md)
 3. [Log Analytics](./log_analytics_of_databases.md)
 4. [IT Analytics](./pro_dbperf_ita.md)
-
-
-
-
-
