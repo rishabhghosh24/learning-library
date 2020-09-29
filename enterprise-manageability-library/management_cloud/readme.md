@@ -8,7 +8,7 @@ The scope of this workshop is to give you an overview of its features and a gene
 These labs are designed based on a pre-configured environment maintained internally by Oracle and are expected to be executed in sequence. There are a number of assumptions associated with these labs that are documented. Please pay attention to those assumptions.
 
 ## Prerequisites
-- Register for the Demo account - #REGISTER
+- Register for the Demo account - **REGISTER**
 - Once you receive the account credentials, login with them to start using the labs below.
 
 ## Oracle Management Cloud Labs
